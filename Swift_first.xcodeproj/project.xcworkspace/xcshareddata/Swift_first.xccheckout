@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E67A7085-F220-413F-8486-E590E1B926A1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>39F5CA8FC7DC41A7A8068E2F6CAA6CE873FD964B</key>
+		<string>https://github.com/stoneCoder/Swift_first.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Swift_first.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>39F5CA8FC7DC41A7A8068E2F6CAA6CE873FD964B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/stoneCoder/Swift_first.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>39F5CA8FC7DC41A7A8068E2F6CAA6CE873FD964B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>39F5CA8FC7DC41A7A8068E2F6CAA6CE873FD964B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Swift_first</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -8,10 +8,10 @@
 
 import Foundation
 
-/*定义常量*/
+/*定义变量*/
 var first = 40;
 first = 50;
-/*定义变量*/
+/*定义常量*/
 let second = 30;
 let third = 40;
 let fourth = 40.0;
@@ -39,7 +39,8 @@ shoppingList[1] = "bottle of water";
 var occupations = ["Malcolm":"Captain","Kayles":"Mechanic"];
 occupations["Jayne"] = "Public Relations";
 
-let emptyArray = Array<String>();
+let emptyArray1 = Array<String>();
+let emptyArray2 = [String]();
 let emptyDictionary = Dictionary<String,Float>();
 
 /*无法判断类型*/
