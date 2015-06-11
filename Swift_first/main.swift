@@ -29,8 +29,15 @@ let apples = 3;
 let oranges = 5;
 let appleSummary = "I have \(apples) apples";
 let fruitSummary = "I have \(apples + oranges) pieces of fruit";
-let age:Float = 30;
-let showText = "I am \(age), do you know ?";
+let age:Float = 30
+let showText = "I am \(age), do you know ?"
+//为了让这些字符串的用途更为明显，我们为 join 函数添加外部参数名：
+     //函数名（别名 参数名：类型）
+func join(string s1: String, toString s2: String, withJoiner joiner: String) -> String {
+    return s1 + joiner + s2
+}
+println(join(string: "haha", toString: "sb!", withJoiner: "you are a"))
+
 
 /*数组*/
 var shoppingList = ["catfish","water","tulips"];
@@ -56,6 +63,10 @@ for score in intArray{
     }else{
         teamScore += 1;
     }
+}
+
+for(index,value) in enumerate(intArray){
+    println("Item \(index + 1): \(value)")
 }
 
 var firstForLoop = 0

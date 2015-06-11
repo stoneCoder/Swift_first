@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>E67A7085-F220-413F-8486-E590E1B926A1</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>Swift_first</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>39F5CA8FC7DC41A7A8068E2F6CAA6CE873FD964B</key>
 		<string>https://github.com/stoneCoder/Swift_first.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Swift_first.xcodeproj/project.xcworkspace</string>
+	<string>Swift_first.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>39F5CA8FC7DC41A7A8068E2F6CAA6CE873FD964B</key>
